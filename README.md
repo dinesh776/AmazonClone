@@ -72,7 +72,8 @@ The project follows a simple directory structure:
 
 
 ## Video Demo
-./AmazonClone/Demo/demo.mp4
+
+https://github.com/user-attachments/assets/2a0cb7b7-4cd4-4b73-834a-04554dd5985f
 
 
    
