@@ -64,14 +64,16 @@ The project follows a simple directory structure:
    
    
 ## Screenshots
-   ![1](Clones/Amazon/AmazonClone/Screenshots/1.png)
-   ![2](Clones/Amazon/AmazonClone/Screenshots/2.png)
-   ![3](Clones/Amazon/AmazonClone/Screenshots/3.png)
-   ![4](Clones/Amazon/AmazonClone/Screenshots/4.png)
+   ![1](./AmazonClone/Screenshots/1.png)
+   ![2](./AmazonClone/Screenshots/2.png)
+   ![3](./AmazonClone/Screenshots/3.png)
+   ![4](./AmazonClone/Screenshots/4.png)
 
 
 
 ## Video Demo
+[Watch the demo video](./AmazonClone/Demo/demo.mp4)
+
 
 Clones/Amazon/AmazonClone/Demo/demo.mp4
 
