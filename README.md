@@ -72,10 +72,7 @@ The project follows a simple directory structure:
 
 
 ## Video Demo
-[Watch the demo video](./AmazonClone/Demo/demo.mp4)
-
-
-Clones/Amazon/AmazonClone/Demo/demo.mp4
+./AmazonClone/Demo/demo.mp4
 
 
    
