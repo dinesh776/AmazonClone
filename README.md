@@ -64,16 +64,16 @@ The project follows a simple directory structure:
    
    
 ## Screenshots
-   ![1](https://github.com/user-attachments/assets/8bf5766a-1160-4567-9d79-08ebbd592300)
-   ![2](https://github.com/user-attachments/assets/5347649a-23e9-474c-8c9e-5da03ac6a82d)
-   ![3](https://github.com/user-attachments/assets/ef9e2c19-3412-405a-9e81-0b727116dfb9)
-   ![4](https://github.com/user-attachments/assets/2129b0a6-e4ff-4a76-9c24-f00803c5a6d1)
+   ![1](Clones/Amazon/AmazonClone/Screenshots/1.png)
+   ![2](Clones/Amazon/AmazonClone/Screenshots/2.png)
+   ![3](Clones/Amazon/AmazonClone/Screenshots/3.png)
+   ![4](Clones/Amazon/AmazonClone/Screenshots/4.png)
 
 
 
 ## Video Demo
 
-https://github.com/user-attachments/assets/bd3299f0-c894-40db-a968-3af87d925549
+Clones/Amazon/AmazonClone/Demo/demo.mp4
 
 
    
